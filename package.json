@@ -4,6 +4,21 @@
   "description": "Dark Theme Tweaked",
   "version": "0.0.1",
   "publisher": "CaduVarela",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaduVarela/Dark-Modern-Tweaked-Theme"
+  },
+  "keywords": [
+    "dark modern",
+    "dark",
+    "dark theme",
+    "caduvarela",
+    "dark modern tweaked",
+    "dark theme tweaked",
+    "theme",
+    "java",
+    "java theme"
+  ],
   "engines": {
     "vscode": "^1.87.0"
   },
