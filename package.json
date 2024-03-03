@@ -1,7 +1,7 @@
 {
   "name": "dark-modern-tweaked",
-  "displayName": "Dark Modern Theme Tweaked",
-  "description": "Dark Modern Theme Tweaked",
+  "displayName": "Dark Modern Tweaked",
+  "description": "Dark Modern Tweaked",
   "version": "0.0.3",
   "publisher": "CaduVarela",
   "repository": {
@@ -17,7 +17,8 @@
     "dark theme tweaked",
     "theme",
     "java",
-    "java theme"
+    "java theme",
+    "java dark theme"
   ],
   "engines": {
     "vscode": "^1.87.0"
