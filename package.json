@@ -1,0 +1,22 @@
+{
+  "name": "dark-theme-tweaked",
+  "displayName": "Dark Theme Tweaked",
+  "description": "Dark Theme Tweaked",
+  "version": "0.0.1",
+  "publisher": "CaduVarela",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme Tweaked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Theme Tweaked-color-theme.json"
+      }
+    ]
+  }
+}
