@@ -1,7 +1,7 @@
 {
-  "name": "dark-theme-tweaked",
-  "displayName": "Dark Theme Tweaked",
-  "description": "Dark Theme Tweaked",
+  "name": "dark-modern-tweaked",
+  "displayName": "Dark Modern Theme Tweaked",
+  "description": "Dark Modern Theme Tweaked",
   "version": "0.0.1",
   "publisher": "CaduVarela",
   "repository": {
@@ -28,9 +28,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Theme Tweaked",
+        "label": "Dark modern Tweaked",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Theme Tweaked-color-theme.json"
+        "path": "./themes/Dark Modern Tweaked-color-theme.json"
       }
     ]
   }
